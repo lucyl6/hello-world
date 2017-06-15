@@ -3,3 +3,4 @@ Edited
 Edited from branch-5
 Edited again after commit from master
 Edited again after two commits from master
+Edited from branch-6
