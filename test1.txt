@@ -1,1 +1,2 @@
-Test file in edit-readme-4 branch
+Test file created in edit-readme-4 branch
+Edited
